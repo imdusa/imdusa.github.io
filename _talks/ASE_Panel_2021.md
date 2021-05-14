@@ -1,6 +1,6 @@
 ---
 title: "Panel I: Artificial Intelligence - Friend or Foe: a pro/con debate about the value of
-Artificial Intelligence (AI) in surgical education and assessment”"
+Artificial Intelligence (AI) in surgical education and assessment"
 collection: talks
 type: "Panelist"
 permalink: /talks/ASE_Panel_2021
