@@ -1,5 +1,5 @@
 ---
-title: "“Complementing Surgeons with Situation Awareness Using Computer Vision Techniques"
+title: "Complementing Surgeons with Situation Awareness Using Computer Vision Techniques"
 collection: talks
 type: "Research Seminar"
 permalink: /talks/Brigham_Seminar_2021
