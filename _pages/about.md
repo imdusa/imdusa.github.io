@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research interests span defining the technologies of future, artificial intelligence powered, healthcare applications. More specifically, I work on surgical vision and perception, and medical image computing. Lately, I have expanded my research interests in surgical data science and context-awareness in operating theaters.
+My research interests span defining the technologies of future, artificial intelligence powered, healthcare applications. More specifically, I work on surgical vision and perception, and medical image computing, and my background is in computer vision. Lately, I have expanded my research interests in surgical data science and context-awareness in operating theaters.
 
 Currently, I am an Assistant Professor at Gazi University, Computer Engineering department. I received my MS and PhD from State University of New York at Buffalo under supervision of Prof. Jason J. Corso, and my BS from TOBB University of Economics and Technology. I was formerly a Post-doctoral Researcher at Universite de Rennes 1 working on Connected Optimized Network & Data in Operating Rooms Project with multiple academic and industrial partners, funded by BPI France, a Project Coordinator / Researcher at Roswell Park Comprehensive Cancer Center working in close collaboration with clinicians on Deep Blue Project, funded by the Roswell Alliance Foundation, and a Research Assistant at Vision and Perceptual Machines Lab at State University of New York at Buffalo on a National Institutes of Health (NIH) project in collaboration with Roswell Park Comprehensive Cancer Center. I am a FULBRIGHT alumna.
 
