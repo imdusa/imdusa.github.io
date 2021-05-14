@@ -18,4 +18,4 @@ I organized the First and Second International Workshops on [Context-Aware Opera
 
 Currently, I am a board member of [Women in MICCAI](http://www.miccai.org/about-miccai/women-in-miccai/), and formerly was a member of the [Student Board](http://www.miccai.org/about-miccai/student-board/) and the [Educational Initiative](http://www.miccai.org/education/) at MICCAI.
 
-Contact: duygusar [at] buffalo [dot] edu
+Contact: duygusar  [at]  buffalo  [dot]  edu
