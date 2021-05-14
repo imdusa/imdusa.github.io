@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://imdusa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imdusa/imdusa.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "/images/DuyguSarikaya_picsmall.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Duygu Sarikaya"
-  avatar           : "profile.png"
+  avatar           : "DuyguSarikaya_picsmall.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
