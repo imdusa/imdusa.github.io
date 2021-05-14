@@ -1,10 +1,10 @@
 ---
-title: "Complementing Surgeons with Situation Awareness Using Computer Vision Techniques"
+title: "Panel I: Artificial Intelligence - Friend or Foe: a pro/con debate about the value of
+Artificial Intelligence (AI) in surgical education and assessment”"
 collection: talks
-type: "Research Seminar"
+type: "Panelist"
 permalink: /talks/ASE_Panel_2021
-venue: "Brigham and Women's Hospital, Teaching Hospital of Harvard Medical School, STRATUS Center for Medical Simulation
-Human Factors & Cognitive Engineering Lab"
-date: March 2021
-location: "Boston, MA, USA (online)"
+venue: "Association for Surgical Education (ASE) 2021 Annual Meeting, The Association for Surgical Education"
+date: April 2021
+location: "online"
 ---
