@@ -11,9 +11,9 @@ title                    : "Duygu Sarikaya"
 title_separator          : "-"
 name                     : &name "Duygu Sarikaya"
 description              : &description "Duygu Sarikaya's Website"
-url                      : https://imdusa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://imduygusarikaya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "imdusa/imdusa.github.io"
+repository               : "imduygusarikaya/imduygusarikaya.github.io"
 teaser                   : "/images/DuyguSarikaya_picsmall.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
